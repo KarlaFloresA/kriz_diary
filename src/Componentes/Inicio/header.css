@@ -1,0 +1,28 @@
+
+
+nav {
+ padding: 40%;
+ font-size: large;
+ height: 100px;
+ 
+}
+
+.nav, a {
+ text-size-adjust: 50%;   
+}
+
+.fondito{
+    
+    background-color: rgb(126, 14, 14);
+    padding: 3.5%;
+    height: 620px;
+    
+}
+
+ a {
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20%;
+    width: 60%;
+    
+}
